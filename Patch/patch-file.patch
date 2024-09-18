@@ -1,0 +1,19 @@
+From 29816cf6265935298f593d5545fd6f83e4521d8d Mon Sep 17 00:00:00 2001
+From: keerthanabalaji2108 <keerthanabalaji2108@gmail.com>
+Date: Wed, 18 Sep 2024 16:27:14 +0530
+Subject: [PATCH] changed index.html
+
+---
+ index.html | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/index.html b/index.html
+index e69de29..90531a4 100644
+--- a/index.html
++++ b/index.html
+@@ -0,0 +1,2 @@
++<html>
++</html>
+-- 
+2.34.1
+
